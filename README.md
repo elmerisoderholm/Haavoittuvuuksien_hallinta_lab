@@ -1,0 +1,1 @@
+# Haavoittuvuuksien_hallinta_lab
